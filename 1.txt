@@ -1,4 +1,6 @@
 This is a sample text.
 This is a line from feature branch.
 This is a line from feature1 branch.
+This is a line from feature2 branch.
+This is a line from feature3 branch.
 This is from feature4 branch.
